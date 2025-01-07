@@ -1,4 +1,4 @@
-# Social Media Performance Analysis
+# (Insightify)A Social Media Performance Analysis
 
 A basic analytics module leveraging **LangFlow** and **DataStax Astra DB** to analyze engagement data from mock social media accounts. It features a Streamlit-based web application for interacting with LangFlow-generated workflows for performance analysis.
 
